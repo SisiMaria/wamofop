@@ -1,8 +1,12 @@
 great first file jajaja
 <<<<<<< HEAD
+<<<<<<< HEAD
 My words are the best
 
 
 =======
 my comments are better than the ones from Ivan
 >>>>>>> origin/the_awesome_branch
+=======
+bla bla bla bla four bla now five
+>>>>>>> thi is the bla commit
