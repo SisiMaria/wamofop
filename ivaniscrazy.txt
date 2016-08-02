@@ -1,4 +1,8 @@
 great first file jajaja
+<<<<<<< HEAD
 My words are the best
 
 
+=======
+my comments are better than the ones from Ivan
+>>>>>>> origin/the_awesome_branch
